@@ -1,0 +1,69 @@
+/* CSS Reset */
+#grid-container {
+  background-color: beige;
+  font-family: cursive;
+}
+
+h1 {
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-top: 20px;
+  border-bottom: solid 10px;
+  font-size: xx-large;
+}
+.date{
+  text-align: right;
+  
+}
+.h2_text--bold::before {
+  content: "*";
+  color: yellow;
+  width: 100px;
+  
+}
+
+.h2_text--bold {
+  font-weight: 100em;
+  color: red;
+}
+.h2_text--cursive{
+  color:green;
+}
+
+.content {
+  margin: 3px;
+  display: inline-block;
+  width: 31%;
+  background-color: #e1c699;
+  border-radius: 1em;
+}
+
+.img {
+  background: url("../assets/img//wes-hicks-6biN3uBw4Fg-unsplash.jpg") no-repeat center center/cover;
+  height: 400px;
+}
+
+.img2 {
+  float: left;
+  background: url("../assets/img/wes-hicks-XpsiJa9iPqY-unsplash.jpg") no-repeat center center/cover;
+  height: 600px;
+  width: 50%;
+}
+
+.img2-content{
+  background-color: beige;
+  float: right;
+  width: 50%;
+  height: 600px;
+  
+}
+h2{
+  text-align:center;
+}
+.img2-content p{
+  margin-top: 100px;
+  padding:2rem;
+}
+/*# sourceMappingURL=veryHard.css.map */

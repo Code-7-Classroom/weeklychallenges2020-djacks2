@@ -1,0 +1,52 @@
+#grid-container{
+    display: grid;
+    height:815px;
+  width: fit-content;
+    color:black;
+    border:solid;
+    background-color:grey;
+  }
+  .box1{
+    color:white;
+    border:solid 5px;
+    height:400px;
+    width:338px;
+
+}
+  .box2{
+    border:solid 3px;
+    color:white
+  }
+  .btn{
+    background-color:red;
+    color: white;
+    border-radius: 2em;
+    
+
+  }
+  .row1{
+    display:flex;
+    flex-direction: row;
+}
+.row2{
+  display:flex;
+  flex-direction:row;
+  
+}
+.box1-content{
+  border-top: black 1px solid;
+  display: inline-block;
+  margin: auto auto;
+  padding:6px;
+  text-align: center;
+
+ }
+ .box1-content-text{
+   padding-top: 1px;
+ }
+ .jordan{
+  height:100px;
+  width: 200px;
+  padding: 10px;
+ }
+  
