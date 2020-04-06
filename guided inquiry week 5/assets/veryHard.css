@@ -17,7 +17,7 @@ h1 {
   text-align: right;
   
 }
-.h2_text--bold::before {
+.h2_text--bold::after{
   content: "*";
   color: yellow;
   width: 100px;
