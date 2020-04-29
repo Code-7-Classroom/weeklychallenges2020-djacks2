@@ -1,0 +1,66 @@
+{
+    "employees": [
+        {
+            "name": "Austin",
+            "id": 1,
+            "salary": 10000000,
+            "departments": "Customer Service"
+        },
+        {
+            "name":"Cody",
+            "id":2,
+            "salary":15000000,
+            "departments": "IT" 
+        },
+        {
+            "name":"Wilson",
+            "id":3,
+            "salary":200000000,
+            "departments": "Marketing"
+        },
+        {
+            "name":"Nathan",
+            "id":4,
+            "salary":200000000,
+            "departments": "Professional Cleanser"
+        },
+        {
+            "name":"Rob",
+            "id":5,
+            "salary":200000000,
+            "departments": "Marketing"
+        },
+        {
+            "name":"Reggie",
+            "id":6,
+            "salary":200000000,
+            "departments": "Management"
+        },
+        {
+            "name":"Will",
+            "id":7,
+            "salary":200000000,
+            "departments": "Security"
+        },
+        {
+            "name":"Jaron",
+            "id":8,
+            "salary":200000000,
+            "departments": "Secuirity"
+        },
+        {
+            "name":"Jamika",
+            "id":9,
+            "salary":200000000,
+            "departments": "Accounting"
+        },
+        {
+            "name":"Josh",
+            "id":10,
+            "salary":200000000,
+            "departments": "IT"
+        }
+
+
+    ]
+}
